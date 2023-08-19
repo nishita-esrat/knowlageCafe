@@ -1,0 +1,42 @@
+
+    
+
+ [
+     
+    {
+        "id":"01",
+        "bannerImg":"https://media.istockphoto.com/id/1475648837/photo/background-from-the-edges-of-old-shabby-books-high-quality-design-background.jpg?s=2048x2048&w=is&k=20&c=Cenqw4RrCb7Q4h2oEARn-ihQUm7aTHPKqSnrwtFlzBo=",
+        "avatar":"https://media.istockphoto.com/id/1486146700/photo/mature-men-outdoor-physical-activity.jpg?s=2048x2048&w=is&k=20&c=Fo6Q39rijFOCA_UrAP3YNQbbYVFPhiiStx1v3f1-rmQ=",
+        "userName":"Bill gates",
+        "publishedDate":"Mar 14 (4 days ago)",
+        "readTime":10,
+        "title":"Everything You Need to Know About Booking"
+    },
+    {
+        "id":"02",
+        "bannerImg":"https://media.istockphoto.com/id/1251629816/photo/the-perfect-setting-to-complete-work.jpg?s=2048x2048&w=is&k=20&c=I1QLOXUT58rQwxLMD1iBe7lGWqTvWZqCEfgu6TbRL-4=",
+        "avatar":"https://media.istockphoto.com/id/1440149713/photo/black-man-tablet-and-smile-for-social-media-post-shopping-online-or-browsing-internet.jpg?s=2048x2048&w=is&k=20&c=JnoXQINAwO7aweno5mFCfBvdCK7OVABmj_dF7Y7V6bc=",
+        "userName":"Liebniz",
+        "publishedDate":"Jun 01 (1 days ago)",
+        "readTime":5,
+        "title":"How to Choose the Right Computer for Your Needs"
+    },
+    {
+        "id":"03",
+        "bannerImg":"https://media.istockphoto.com/id/1015481008/photo/space-launch-system-takes-off.jpg?s=2048x2048&w=is&k=20&c=dneVoCJQMhxB2wVcbWd3BOBiwJq0H6hLO1odzJi77ck=",
+        "avatar":"https://media.istockphoto.com/id/1435745704/photo/portrait-of-smiling-mid-adult-businessman-standing-at-corporate-office.jpg?s=2048x2048&w=is&k=20&c=GEVT5y1Q8Gcf8M8lg2FMzb_WGc_zgm_nb312SG_DUzo=",
+        "userName":"Eillon Mask",
+        "publishedDate":"Feb 28 (10 days ago)",
+        "readTime":15,
+        "title":"roket: The Key to Unlocking Your Potential"
+    },
+    {
+        "id":"04",
+        "bannerImg":"https://media.istockphoto.com/id/1360507858/photo/women-owener-of-small-business-packing-product-in-boxes.jpg?s=2048x2048&w=is&k=20&c=dzSqcnoDO0y65lsG1uk_ZRYwzqxcNYqJwlb8vF1-RTw=",
+        "avatar":"https://media.istockphoto.com/id/1289220545/photo/beautiful-woman-smiling-with-crossed-arms.jpg?s=2048x2048&w=is&k=20&c=9oGG0ky5YdK2J5Qy1RIdVRJFV8U3DEBbMCq10aTxTPY=",
+        "userName":"Dipty",
+        "publishedDate":"April 18 (5 days ago)",
+        "readTime":20,
+        "title":"A Beginner's Guide to E-Commerce"
+    }]
+ 

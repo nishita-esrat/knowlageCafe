@@ -1,0 +1,14 @@
+
+.header{
+    padding: 30px 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid gray;
+}
+/* responsive  for max width 425 px*/
+@media screen and (max-width: 425px) {
+    .header h1 {
+        font-size: 25px;
+    }
+  }

@@ -1,0 +1,37 @@
+
+.side-container{
+    height: max-content;
+    padding:15px 0 ;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.side-container .side-top{
+    padding: 15px;
+    background-color: rgb(229, 217, 240);
+    text-align: center;
+    color: rgb(123, 8, 231);
+    border-radius: 10px;
+    border: 1px solid rgb(123, 8, 231);
+}
+.side-container .side-bottom{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+    padding: 15px ;
+    background-color: rgb(237, 235, 235);
+}
+.side-container .side-bottom .side-bottom-bottom{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.side-container .side-bottom .side-bottom-bottom div{
+    background-color: white;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    box-shadow: 2px 2px 1px whitesmoke , -2px -2px 1px whitesmoke;
+    border-radius: 3px;
+}
