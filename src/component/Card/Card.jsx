@@ -10,7 +10,7 @@ const Card = ({ searchTitle ,markAsRead }) => {
   const [value, setValue] = useState([]);
   // fetching data
   useEffect(() => {
-    fetch("../../../data/data.json")
+    fetch("data/data.json")
       .then((res) => res.json())
       .then((data) => setValue(data))
       .catch((err) => console.log(err));
